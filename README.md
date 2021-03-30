@@ -1,4 +1,4 @@
-# Towards Understanding Clustering Problems and Algorithms: an Instance Space Analysis 
+# Towards Understanding Clustering Problems and Algorithms: an Instance Space Analysis (supplementary material)
 
 <a href="https://doi.org/10.5281/zenodo.4647985"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4647985.svg" alt="DOI"></a>
 
