@@ -11,7 +11,7 @@ To generate the paper results, the following steps must be taken:
 3) Consolidation of meta-data;
 4) Submission to MATILDA: https://matilda.unimelb.edu.au/matilda/login 
 
-To facilitate the control of the execution of the algorithms, we divided the datasets in 7 groups: gaussian, ellipsoidal, small, medium, large, github and OpenML. This classification differs from the categorization in the text of the paper (Gaussian, Ellipsoidal and Multiple Shapes).
+To facilitate the control of the execution of the algorithms, we divided the datasets in 7 groups: gaussian, ellipsoidal, small, medium, large, github and OpenML. This classification differs from the paper categorization (Gaussian, Ellipsoidal and Multiple Shapes).
 
 Obs.: Parameters used can be consulted in the reference: https://doi.org/10.3390/a14030095
 
