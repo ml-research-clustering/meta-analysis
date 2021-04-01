@@ -9,6 +9,10 @@ To generate the paper results, the following steps must be taken:
 1) Generation of meta-features: main_features.R and meta_features_function.R;
 2) Generation of the number of clusters, clusters, performance measures and ranking: script_performance.R, script_performance_stability.R, script_ranking.R and results_analysis.R;
 3) Consolidation of meta-data;
-4) Submission of meta-data to MATILDA: https://matilda.unimelb.edu.au/matilda/login (Parameters used can be consulted at this link: https://doi.org/10.3390/a14030095)
+4) Submission of meta-data to MATILDA: https://matilda.unimelb.edu.au/matilda/login 
 
 To facilitate the control of the execution of the algorithms, we divided the datasets in 7 groups: gaussian, ellipsoidal, small, medium, large, github and OpenML. This classification differs from the categorization in the text of the paper (Gaussian, Ellipsoidal and Multiple Shapes).
+
+Obs.: Parameters used can be consulted in the reference: https://doi.org/10.3390/a14030095
+
+
