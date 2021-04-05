@@ -13,6 +13,8 @@ To generate the paper results, the following steps must be taken:
 
 To facilitate the control of algorithms running, we divided the datasets in 7 groups: gaussian, ellipsoidal, small, medium, large, github and OpenML. This classification differs from the paper categorization (Gaussian, Ellipsoidal and Multiple Shapes).
 
+You can also submit the meta-data provided here directly into MATILDA.
+
 Obs.: Parameters used can be consulted in the reference: https://doi.org/10.3390/a14030095
 
 
